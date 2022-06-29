@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotation>
+    <folder>NA</folder>
+    <filename>bedroom (439).jpg</filename>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1000</width>
+        <height>1137</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>床</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>215</xmin>
+            <ymin>591</ymin>
+            <xmax>847</xmax>
+            <ymax>1082</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>枕头</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>587</xmin>
+            <ymin>534</ymin>
+            <xmax>828</xmax>
+            <ymax>639</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>灯</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <occluded>0</occluded>
+        <bndbox>
+            <xmin>494</xmin>
+            <ymin>0</ymin>
+            <xmax>699</xmax>
+            <ymax>147</ymax>
+        </bndbox>
+    </object>
+</annotation>
